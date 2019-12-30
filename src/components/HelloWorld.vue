@@ -1,13 +1,15 @@
 <template>
+  <v-container>
+    
+  </v-container>
 </template>
 
 <script>
 export default {
   name: 'HelloWorld',
-  props: {
-    msg: String
-  }
-}
-</script>
 
-</style>
+  data: () => ({
+    
+  }),
+};
+</script>
